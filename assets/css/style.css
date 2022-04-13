@@ -873,7 +873,7 @@ section {
 --------------------------------------------------------------*/
 .testimonials {
   padding: 80px 0;
-  background: url("../img/testimonials-bg.jpg") no-repeat;
+  background: url("../img/whitespeaker.jpg") no-repeat;
   background-position: center center;
   background-size: cover;
   position: relative;
@@ -885,7 +885,7 @@ section {
   right: 0;
   top: 0;
   bottom: 0;
-  background: rgba(13, 20, 26, 0.7);
+  background: rgba(65, 104, 89, 0.7);
 }
 .testimonials .section-header {
   margin-bottom: 40px;
